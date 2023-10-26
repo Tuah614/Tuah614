@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Tuah614
-- 👀 I’m interested in automation applications that improve construction workflow.
-- 🌱 I’m currently learning Dynamo and a little bit of Python.
+currently learning Dynamo and a little bit of Python.
 
 
 <!---
