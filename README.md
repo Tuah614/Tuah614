@@ -1,4 +1,4 @@
-currently learning Dynamo and a little bit of Python.
+currently learning Dynamo and a little bit of Python
 
 
 <!---
