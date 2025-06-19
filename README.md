@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tuah and I'm a Digital Engineer, from :malaysia: </h2>
+<h2 align="left">Hi 👋! My name is Tuah and I'm a Digital Engineer from :malaysia: </h2>
 
 ###
 
